@@ -13,7 +13,7 @@ body{
     margin-top: 20px;
     width: 500px;
     height: 500px;
-    border-radius: 10px;
+    border-radius: 50px;
     background-color: rgba(8, 9, 8, 0.9);
     color: bisque;
     text-align: center;
@@ -29,6 +29,7 @@ body{
     height: 40px;
     margin-left: 190px;
     background-color: bisque;
+    border-radius: 10px;
 }
 
 #pay{
