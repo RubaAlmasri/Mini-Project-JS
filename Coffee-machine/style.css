@@ -1,0 +1,57 @@
+body{
+    background-image: url(images/pic.jpg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+#logo{
+    width: 150px;
+    height: 150px;
+}
+
+.container{
+    margin-top: 20px;
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    background-color: rgba(8, 9, 8, 0.9);
+    color: bisque;
+    text-align: center;
+    padding-top: 20px;
+}
+.options{
+    margin-left: 50px;
+    color: bisque;
+}
+
+#enter{
+    width: 20%;
+    height: 40px;
+    margin-left: 190px;
+    background-color: bisque;
+}
+
+#pay{
+    display: none;
+}
+
+#money{
+    background-color: bisque;
+    text-align: center;
+}
+
+#remaining{
+    display: none;
+}
+
+/* #rem{
+    background-color: bisque;
+    color: black;
+} */
+
+#img{
+    width: 100px;
+    height: 80px;
+    display: none;
+}
+
